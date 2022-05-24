@@ -39,7 +39,7 @@ GEM
       activestorage (= 7.0.3)
       activesupport (= 7.0.3)
       globalid (>= 0.6.0)
-      nokogiri (>= 1.8.5)
+      nokogiri (>= 1.13.6)
     actionview (7.0.3)
       activesupport (= 7.0.3)
       builder (~> 3.1)

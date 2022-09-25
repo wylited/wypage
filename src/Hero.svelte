@@ -13,7 +13,7 @@
   <div class="grid justify-center items-center order-1 col-span-1">
     <img
       class="lg:h-80 md:h-64 h-40 rounded-full"
-      src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde"
+      src="https://github.com/wylited/wypage/raw/main/public/pfp.png"
       alt=""/>
   </div>
 
